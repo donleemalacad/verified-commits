@@ -30,7 +30,7 @@ git commit -S -m 'My Verified Commit'
 ```
 
 
->So, How does verified commits look like?
+>So, what does verified commits look like?
 
 ![](images/verified-commit.png?raw=true)
 
