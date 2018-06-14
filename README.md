@@ -16,7 +16,7 @@ To simulate a spoof commit, just change git config
 git config user.name Spoofer Person
 git config user.email spoofer@email.com
 ```
-
+---
 To generate GPG Keys, Please go to githubs tutorial in the link provided below:
 
 [Generate GPG Key](https://help.github.com/articles/generating-a-new-gpg-key/)
@@ -35,4 +35,5 @@ git commit -S -m 'My Verified Commit'
 
 ![](images/verified-commit.png?raw=true)
 
-Happy Coding! :smile:
+---
+Cheers. Happy Coding! :smile:
