@@ -9,7 +9,7 @@ There are number of ways in which a git repository can be compromised. For examp
 > **NOTE**: This is not a mandatory feature. You can use this as additional layer of security in your repository
 
 
-### Example 1.1 : How easy it is to spoof commit
+## Example 1.1 : How easy it is to spoof commit
 ![](images/commit-history-with-spoof.png?raw=true)
 
 To simulate a spoof commit, just change git config
@@ -30,9 +30,8 @@ git commit -S -m 'My Verified Commit'
 ```
 
 
-So, How does verified commits look like?
-![](images/verified-commit.png?raw=true)
+>So, How does verified commits look like?
 
-It adds a Verified Tag beside the commit.
+![](images/verified-commit.png?raw=true)
 
 Happy Coding! :smile:
