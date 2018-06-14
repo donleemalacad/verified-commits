@@ -2,7 +2,6 @@
 
 With signing of commits and tags, One can prove that certain commits and tags were from you.
 
-
 There are number of ways in which a git repository can be compromised. For example, someone pushed to your repository with the intent of sabotaging your work and claiming it was you as shown below.
 
 
@@ -22,15 +21,17 @@ To generate GPG Keys, Please go to githubs tutorial in the link provided below:
 
 [Generate GPG Key](https://help.github.com/articles/generating-a-new-gpg-key/)
 
-> How do I commit a verified commit?
+---
+
+> How do I commit a verified commit?<space><space>
 
 You just need to add -S in git commit as shown below
 ```
 git commit -S -m 'My Verified Commit'
 ```
+---
 
-
->So, what does verified commits look like?
+>So, what does verified commits look like?<space><space>
 
 ![](images/verified-commit.png?raw=true)
 
